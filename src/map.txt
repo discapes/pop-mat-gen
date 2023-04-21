@@ -1,0 +1,16 @@
+X	XX	X						J		N	N	N	N	N	N
+XX	XXX	XX		N				J	J	N		N	N	N	
+X	XX	X		N			XX	X	J		U			N	
+				N		XX	XXX	XX	J		X	XX	X		
+J	J	J	U	N	N	X	X	X	U	J	XX	XXX	XX	XX	X
+	XXXX	X	J	N	N		T	T	T	T	X	XX	X	XXX	XX
+	XXXX	X	J	T	J	J	J		N	N		T	X	XX	X
+	T			T	XX	X	XXX	U	U	N		T			
+	T	T	T	XX	XXX	XX			N	N		T	T	T	T
+	U	N		X	XX	X			N	N		T			
+		N						N	N	X	XX	XXX			
+	N	N	N	J	J	J			N		XXX	XXXX	X		X
+		XXXX	X	J	X	XX		U			XX	XXXX	XX	XXX	XX
+U	U	XXXX	X	J	XX	XXX	XX								
+			J	J	X	XX	X								
+			J									U	U		
